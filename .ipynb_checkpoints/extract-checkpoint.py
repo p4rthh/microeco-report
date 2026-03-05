@@ -36,4 +36,3 @@ species = df[2024].sort_values(ascending=False).head(15).index
 final_df = df.loc[species, years]
 print(final_df.shape)
 print(final_df)
-final_df.to_csv("appendix1.csv")
