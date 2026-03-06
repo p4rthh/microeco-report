@@ -1,0 +1,61 @@
+,Sector,Fractile_Class_MPCE,Item_Description,Quantity_per_person,Value_per_person,Household_estimates,Household_sample
+0,Rural,0-5%,Fish/Prawn,0.119,20.24,14701,1092
+1,Rural,5-10%,Fish/Prawn,0.163,28.4,18521,1353
+2,Rural,10-20%,Fish/Prawn,0.188,33.85,42346,3135
+3,Rural,20-30%,Fish/Prawn,0.204,37.44,44909,3369
+4,Rural,30-40%,Fish/Prawn,0.23,43.63,49793,3800
+5,Rural,40-50%,Fish/Prawn,0.246,46.96,52749,4090
+6,Rural,50-60%,Fish/Prawn,0.266,51.51,53941,6432
+7,Rural,60-70%,Fish/Prawn,0.292,56.08,59035,4878
+8,Rural,70-80%,Fish/Prawn,0.321,61.76,60872,5361
+9,Rural,80-90%,Fish/Prawn,0.362,69.13,64797,6161
+10,Rural,90-95%,Fish/Prawn,0.416,81.75,35284,3679
+11,Rural,95-100%,Fish/Prawn,0.547,111.65,40355,4909
+12,Urban,0-5%,Chicken,0.284,56.62,12245,1493
+13,Rural,5-10%,Chicken,0.282,55.1,28496,2144
+14,Rural,10-20%,Chicken,0.299,59.36,61498,4611
+15,Rural,20-30%,Chicken,0.322,65.28,66843,5012
+16,Rural,30-40%,Chicken,0.348,71.21,73084,5566
+17,Rural,40-50%,Chicken,0.364,75.14,75807,5893
+18,Rural,50-60%,Chicken,0.389,81.14,82460,6432
+19,Rural,60-70%,Chicken,0.411,86.9,88847,7127
+20,Rural,70-80%,Chicken,0.43,91.94,92468,7699
+21,Rural,80-90%,Chicken,0.472,102.2,102180,8965
+22,Rural,90-95%,Chicken,0.538,116.12,57001,5280
+23,Rural,95-100%,Chicken,0.648,138.09,62769,6810
+24,Rural,0-5%,Suji/Rawa,0.032,1.46,20969,1524
+25,Rural,5-10%,Suji/Rawa,0.046,2.06,28172,2077
+26,Rural,10-20%,Suji/Rawa,0.055,2.52,67636,4983
+27,Rural,20-30%,Suji/Rawa,0.063,2.89,77070,5612
+28,Rural,30-40%,Suji/Rawa,0.071,3.31,85845,6284
+29,Rural,40-50%,Suji/Rawa,0.08,3.72,93074,6807
+30,Rural,50-60%,Suji/Rawa,0.087,4.1,101677,7423
+31,Rural,60-70%,Suji/Rawa,0.097,4.66,112475,8273
+32,Rural,70-80%,Suji/Rawa,0.113,5.45,125822,9378
+33,Rural,80-90%,Suji/Rawa,0.131,6.49,141798,10650
+34,Rural,90-95%,Suji/Rawa,0.146,7.29,78036,6029
+35,Rural,95-100%,Suji/Rawa,0.171,9.14,91096,7530
+36,Rural,0-5%,Pulses & Pulse Products,0.504,53.74,67767,4962
+37,Rural,5-10%,Pulses & Pulse Products,0.579,63.67,74219,5484
+38,Rural,10-20%,Pulses & Pulse Products,0.615,68.18,156684,11726
+39,Rural,20-30%,Pulses & Pulse Products,0.66,73.51,163375,12248
+40,Rural,30-40%,Pulses & Pulse Products,0.696,77.53,173400,13152
+41,Rural,40-50%,Pulses & Pulse Products,0.718,80.47,179970,13813
+42,Rural,50-60%,Pulses & Pulse Products,0.739,82.96,189666,14670
+43,Rural,60-70%,Pulses & Pulse Products,0.77,87.19,201267,15830
+44,Rural,70-80%,Pulses & Pulse Products,0.81,92.71,212483,17163
+45,Rural,80-90%,Pulses & Pulse Products,0.871,100.82,228130,19062
+46,Rural,90-95%,Pulses & Pulse Products,0.935,109.57,124206,10887
+47,Rural,95-100%,Pulses & Pulse Products,1.075,128.6,143635,14177
+48,Rural,0-5%,Milk & Milk Products,1.919,92.41,43583,3158
+49,Rural,5-10%,Milk & Milk Products,2.756,132.49,54020,4017
+50,Rural,10-20%,Milk & Milk Products,3.334,162.7,122925,9118
+51,Rural,20-30%,Milk & Milk Products,3.895,191.08,134255,10007
+52,Rural,30-40%,Milk & Milk Products,4.302,212.8,147042,11017
+53,Rural,40-50%,Milk & Milk Products,4.693,234.63,156442,11815
+54,Rural,50-60%,Milk & Milk Products,5.204,263.22,169066,12819
+55,Rural,60-70%,Milk & Milk Products,5.54,284.56,181497,13877
+56,Rural,70-80%,Milk & Milk Products,6.187,323.43,195802,15201
+57,Rural,80-90%,Milk & Milk Products,6.958,373.34,213073,16888
+58,Rural,90-95%,Milk & Milk Products,7.813,426.81,117188,9684
+59,Rural,95-100%,Milk & Milk Products,8.998,490.46,136400,12681
